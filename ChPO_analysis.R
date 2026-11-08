@@ -31,7 +31,7 @@ library(grid)
 ## 2. Set working directory
 ############################################################
 
-directory <- "/Volumes/AtsadangSSD/Pin_re/"
+directory <- "/yourdirectory"
 setwd(directory)
 
 
